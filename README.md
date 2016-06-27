@@ -1,8 +1,8 @@
-### Attention
+# Attention
 
 A brand new and clear Wargaming.NET api reader is in progress. See my new project: [jp-wargaming-api-reader](https://github.com/JohnnyDevNull/jp-wargaming-api-reader)
 
-### Introduction
+# Introduction
 
 This is a modified version from thunder-spb/wot-api-description.
 
